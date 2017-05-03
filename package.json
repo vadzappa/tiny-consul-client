@@ -1,5 +1,5 @@
 {
-  "name": "consul-client",
+  "name": "tiny-consul-client",
   "version": "1.1.1",
   "description": "",
   "main": "index.js",
@@ -8,11 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com:vadzappa/consul-client.git"
+    "url": "git+ssh://git@github.com:vadzappa/tiny-consul-client.git"
   },
   "author": "Vadzim Zapolski",
   "license": "ISC",
-  "homepage": "https://github.com/vadzappa/consul-client#readme",
+  "homepage": "https://github.com/vadzappa/tiny-consul-client#readme",
   "dependencies": {
     "bluebird": "^3.5.0",
     "consul": "^0.28.0",
