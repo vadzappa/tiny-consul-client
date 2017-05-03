@@ -1,0 +1,24 @@
+{
+  "name": "consul-client",
+  "version": "1.1.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:vadzappa/consul-client.git"
+  },
+  "author": "Vadzim Zapolski",
+  "license": "ISC",
+  "homepage": "https://github.com/vadzappa/consul-client#readme",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "consul": "^0.28.0",
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {
+    "eslint": "^3.19.0"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "consul-client",
+  "version": "1.1.1",
+  "dependencies": {
+    "bluebird": {
+      "version": "3.5.0",
+      "from": "bluebird@>=3.5.0 <4.0.0",
+      "resolved": "https://registry.npmjs.org/bluebird/-/bluebird-3.5.0.tgz"
+    },
+    "consul": {
+      "version": "0.28.0",
+      "from": "consul@>=0.28.0 <0.29.0",
+      "resolved": "https://registry.npmjs.org/consul/-/consul-0.28.0.tgz"
+    },
+    "lodash": {
+      "version": "4.17.4",
+      "from": "lodash@>=4.17.4 <5.0.0",
+      "resolved": "https://registry.npmjs.org/lodash/-/lodash-4.17.4.tgz"
+    },
+    "papi": {
+      "version": "0.27.0",
+      "from": "papi@>=0.27.0 <0.28.0",
+      "resolved": "https://registry.npmjs.org/papi/-/papi-0.27.0.tgz"
+    }
+  }
+}
