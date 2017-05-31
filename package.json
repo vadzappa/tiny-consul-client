@@ -15,7 +15,7 @@
   "homepage": "https://github.com/vadzappa/tiny-consul-client#readme",
   "dependencies": {
     "bluebird": "^3.5.0",
-    "consul": "^0.28.0",
+    "consul": "^0.29.0",
     "lodash": "^4.17.4"
   },
   "devDependencies": {
