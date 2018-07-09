@@ -14,11 +14,10 @@
   "license": "ISC",
   "homepage": "https://github.com/vadzappa/tiny-consul-client#readme",
   "dependencies": {
-    "bluebird": "^3.5.0",
-    "consul": "^0.29.0",
-    "lodash": "^4.17.4"
+    "consul": "^0.33.1",
+    "lodash": "^4.17.10"
   },
   "devDependencies": {
-    "eslint": "^3.19.0"
+    "eslint": "^5.1.0"
   }
 }
